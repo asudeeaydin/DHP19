@@ -11,9 +11,9 @@
 
 % Set the paths of code repository folder, data folder and output folder 
 % where to generate files of accumulated events.
-rootCodeFolder = ''; % root directory of the git repo.
-rootDataFolder = ''; % root directory of the data downloaded from resiliosync.
-outDatasetFolder = '';
+rootCodeFolder = '/Users/asudeaydin/PycharmProjects/thesis/previous_work/DHP19'; % root directory of the git repo.
+rootDataFolder = '/Users/asudeaydin/Resilio Sync/DHP19'; % root directory of the data downloaded from resiliosync.
+outDatasetFolder = '/Users/asudeaydin/PycharmProjects/thesis/previous_work/DHP19/constant_count_frames';
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
